@@ -1,4 +1,4 @@
-Black-hole-simulation-using-python
+blackhole_lensing_sim
 ==================================
 
 Non-spinning black hole simulation based on geodesic equation.
